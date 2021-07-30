@@ -17,6 +17,10 @@ body.dark-mode {
 	--message-box-container-border-color: var(--color-dark-30);
 }
 
+body.dark-mode .message .time {
+	opacity: 0.5;
+}
+
 /* Reset global font color so that it's changable more easily */
 .color-primary-font-color,
 textarea {
