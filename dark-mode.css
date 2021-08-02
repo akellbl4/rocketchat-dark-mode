@@ -48,6 +48,7 @@ textarea {
 .rcx-icon--name-darkmode {
 	height: 1em;
 	font-size: 1rem !important;
+	opacity: 0.5;
 }
 
 @media (min-width: 1372px) {
