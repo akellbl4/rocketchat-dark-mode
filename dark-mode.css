@@ -103,11 +103,11 @@ select,
 .border-component-color,
 .contextual-bar__header,
 .contextual-bar__content,
-.sidebar__footer {
+.rcx-css-6b5wjo {
 	transition: opacity 300ms linear, color 150ms, background-color 150ms, border-color 150ms;
 }
 
-.sidebar__footer {
+.rcx-css-6b5wjo {
 	display: flex;
 	justify-content: space-between;
 }
@@ -519,8 +519,8 @@ body.dark-mode .main-content .rcx-button--square:is(.rcx-button--ghost, .rcx-but
 /* Menu buttons on top right (threads, search, etc.) */
 body.dark-mode .rcx-css-15vvv6z:hover,
 body.dark-mode .rcx-css-ue04py:hover,
-body.dark-mode .sidebar__footer .rcx-button:hover,
-body.dark-mode .sidebar__footer .rcx-button:active,
+body.dark-mode .rcx-css-6b5wjo .rcx-button:hover,
+body.dark-mode .rcx-css-6b5wjo .rcx-button:active,
 body.dark-mode .rcx-css-15vvv6z:active,
 body.dark-mode .rcx-css-ue04py:active {
 	border-color: var(--color-dark-medium) !important;
