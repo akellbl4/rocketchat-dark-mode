@@ -93,6 +93,8 @@ function updateButton(mode) {
 function addDarkModeToggle() {
 	const sidebarFooter = $('.rcx-css-6b5wjo').first();
 
+	sidebarFooter.addClass('sidebar--custom-colors');
+
 	// wait for the sidebar toolbar to be visible
 	// this will also be false if the toolbar doesn't exist yet
 	if (!sidebarFooter.is(':visible')) {
