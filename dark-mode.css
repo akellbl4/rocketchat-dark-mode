@@ -13,6 +13,11 @@
 	max-width: 200px;
 }
 
+.sidebar--footer {
+	display: flex;
+	justify-content: space-between;
+}
+
 body.dark-mode {
 	--message-box-container-border-color: var(--color-dark-30);
 }
